@@ -1,3 +1,1 @@
-# kitg
-Karate In The Garage 
-A place to meet new friends and create new adventures
+John Seong attempts to create a website!
